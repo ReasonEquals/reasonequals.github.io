@@ -4,9 +4,9 @@
 3. Created empty repository for lesson
 4. Installed git desktop, signed in, cloned repository from list of options. Made changes to this file and merged to main.
 
-#About Me
+# About Me
 
-##Interests
+## Interests
 
 My current hobbies and interests include:
 
@@ -18,7 +18,7 @@ My current hobbies and interests include:
  * World of Warcraft
  * Warhammer 40k: Space Marine 2
 
-##Websites I recommend
+## Websites I recommend
 
 I dont browse the web very often anymore so I can only recommend a few sites:
 
